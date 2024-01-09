@@ -3,10 +3,20 @@
 
 **Project Description**
 
-Aplikasi ini adalah aplikasi mobile yang dapat memberikan informasi tentang servis motor yang dilakukan oleh customer. Ketika customer selesai melakukan servis di bengkel maka customer dapat memonitoring kondisi motor pada aplikasi ini. Tidak hanya itu, aplikasi ini juga memberikan daftar layanan servis yang dapat dilakukan oleh bengkel. Lalu terdapat halaman sparepart yang menampilkan berbagai macam sparepart dan harganya dari motor yang didaftarkan oleh customer. Selain itu terdapat riwayat servis dari motor customer yang bisa menampilkan nota dari servis yang dilakukan oleh customer
+Aplikasi ini adalah aplikasi mobile yang dapat memberikan informasi tentang servis motor yang dilakukan oleh customer. Ketika customer selesai melakukan servis di bengkel maka customer dapat melihat kondisi motor pada aplikasi ini. Aplikasi ini juga memberikan daftar layanan servis yang dapat dilakukan oleh bengkel. Terdapat halaman sparepart yang menampilkan berbagai macam sparepart dari motor yang didaftarkan oleh customer. Selain itu terdapat riwayat servis dari motor customer yang bisa menampilkan nota dari servis yang dilakukan oleh customer
 
 **Use case**
 
 
-![image](https://github.com/HariIDn/044_ProjectAkhir/assets/108159696/e7e31a02-0c5c-4dd5-9c04-666234cd2df3)
+![image](https://github.com/HariIDn/044_ProjectAkhir/assets/108159696/10bd466e-9393-4b31-ba54-ca0d79c73785)
 
+
+_**SignUp**_: User dapat mendaftarkan/ membuat akun baru untuk masuk dan mengakses fitur pada aplikasi Layanan Bengkel
+
+_**LogIn**_: User yang sudah mendaftarkan akunnya dapat masuk ke dalam aplikasi untuk menggunakan aplikasi Layanan Bengkel
+
+_**Info Kendaraan**_: User dapat melihat informasi kendaraan yang dibawa ke bengkel
+
+_**Service**_: User dapat menambahkan layanan yang diinginkan saat membawa motornya ke bengkel
+
+_**Riwayat**_: User dapat melihat riwayat servis yang dilakukan 
