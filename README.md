@@ -8,7 +8,8 @@ Aplikasi ini adalah aplikasi mobile yang dapat memberikan informasi tentang serv
 **Use case**
 
 
-![image](https://github.com/HariIDn/044_ProjectAkhir/assets/108159696/10bd466e-9393-4b31-ba54-ca0d79c73785)
+![image](https://github.com/HariIDn/044_ProjectAkhir/assets/108159696/06d6c3af-a1e0-4ea1-8648-f79624531ba3)
+
 
 
 _**SignUp**_: User dapat mendaftarkan/ membuat akun baru untuk masuk dan mengakses fitur pada aplikasi Layanan Bengkel
