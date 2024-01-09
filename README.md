@@ -20,4 +20,6 @@ _**Info Kendaraan**_: User dapat melihat informasi kendaraan yang dibawa ke beng
 
 _**Service**_: User dapat menambahkan layanan yang diinginkan saat membawa motornya ke bengkel
 
-_**Riwayat**_: User dapat melihat riwayat servis yang dilakukan 
+_**Riwayat**_: User dapat melihat riwayat servis yang dilakukan
+
+_**LogOut**_: User keluar dari akunnya
