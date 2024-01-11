@@ -1,6 +1,6 @@
 package com.example.a044_projectakhir.model
 
-data class bengkel(
+data class Bengkel(
     val id: String,
     val nama: String,
     val motor: String,
