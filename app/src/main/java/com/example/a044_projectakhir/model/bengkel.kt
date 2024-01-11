@@ -13,4 +13,6 @@ data class Services(
     val id: String,
     val nama: String,
     val servis: String,
-)
+){
+    constructor(): this("", "", "")
+}
